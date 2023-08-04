@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @drunfgert
+- 👀 I’m interested in building
+- 🌱 I’m currently learning web3
